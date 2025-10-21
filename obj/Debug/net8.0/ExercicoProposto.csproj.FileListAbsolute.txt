@@ -1,0 +1,14 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\Projetos\ExercicoProposto\bin\Debug\net8.0\ExercicoProposto.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\Projetos\ExercicoProposto\bin\Debug\net8.0\ExercicoProposto.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\Projetos\ExercicoProposto\bin\Debug\net8.0\ExercicoProposto.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\Projetos\ExercicoProposto\bin\Debug\net8.0\ExercicoProposto.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\Projetos\ExercicoProposto\bin\Debug\net8.0\ExercicoProposto.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\Projetos\ExercicoProposto\obj\Debug\net8.0\ExercicoProposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\Projetos\ExercicoProposto\obj\Debug\net8.0\ExercicoProposto.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\Projetos\ExercicoProposto\obj\Debug\net8.0\ExercicoProposto.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\Projetos\ExercicoProposto\obj\Debug\net8.0\ExercicoProposto.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\Projetos\ExercicoProposto\obj\Debug\net8.0\ExercicoProposto.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\Projetos\ExercicoProposto\obj\Debug\net8.0\refint\ExercicoProposto.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\Projetos\ExercicoProposto\obj\Debug\net8.0\ExercicoProposto.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\Projetos\ExercicoProposto\obj\Debug\net8.0\ExercicoProposto.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\Projetos\ExercicoProposto\obj\Debug\net8.0\ref\ExercicoProposto.dll
