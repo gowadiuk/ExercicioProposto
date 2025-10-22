@@ -12,3 +12,4 @@ C:\Users\gabri\OneDrive\Área de Trabalho\C#\Projetos\ExercicoProposto\obj\Debug
 C:\Users\gabri\OneDrive\Área de Trabalho\C#\Projetos\ExercicoProposto\obj\Debug\net8.0\ExercicoProposto.pdb
 C:\Users\gabri\OneDrive\Área de Trabalho\C#\Projetos\ExercicoProposto\obj\Debug\net8.0\ExercicoProposto.genruntimeconfig.cache
 C:\Users\gabri\OneDrive\Área de Trabalho\C#\Projetos\ExercicoProposto\obj\Debug\net8.0\ref\ExercicoProposto.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\Projetos\ExercicoProposto\obj\Debug\net8.0\ExercicoProposto.sourcelink.json

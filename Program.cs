@@ -7,6 +7,8 @@ namespace ExercicoProposto
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Bem vindo!!");
+
             Console.Write("Enter full file path: ");
             string path = Console.ReadLine();
 
