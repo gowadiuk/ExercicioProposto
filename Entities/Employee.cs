@@ -12,6 +12,10 @@ namespace ExercicoProposto.Entities
         public string Email { get; set; }
         public double Salary { get; set; }
 
+        public Employee(){
+            
+        }
+
         public Employee(string name, string email, double salary)
         {
             Name = name;
