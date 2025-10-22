@@ -18,8 +18,7 @@ namespace ExercicoProposto
 
             List<Employee> employees = new List<Employee>();
 
-           
-            
+          System.Console.WriteLine();
 
 
             using (StreamReader sr = File.OpenText(path))
